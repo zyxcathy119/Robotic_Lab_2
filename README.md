@@ -6,10 +6,20 @@ The labs are located in the [wiki](https://github.com/GIXLabs/TECHIN517/wiki) of
 
 The code has everything you'll need for the Fetch robotics ROS Noetic workspace.
 
-To get started, clone this repo with its submodules:
+To get started, clone this repo:
 
 ```bash
-git clone --recursive https://github.com/GIXLabs/TECHIN517.git
+git clone https://github.com/GIXLabs/TECHIN517.git
+```
+
+Go into the fetch_ws and install the class code:
+
+```bash
+cd fetch_ws
+```
+
+```bash
+./install_fetch_ws.sh
 ```
 
 Please reach out to the professor if you have any questions about the class.
