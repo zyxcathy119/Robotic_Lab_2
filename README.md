@@ -41,9 +41,6 @@ You should see:
 ```bash
 /hello_world main:8: Hello world!
 ```
-```bash
-/hello_world main:8: Hello world!
-```
 Then run:
 ```bash
 roslaunch fetch_gazebo playground.launch
