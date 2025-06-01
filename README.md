@@ -48,6 +48,7 @@ roslaunch fetch_gazebo playground.launch
 4. run Moveit:
 ```bash
 roslaunch fetch_moveit_config move_group.launch
+rosrun rviz rviz
 ```
 Then make script executable and run it:
 ```bash
